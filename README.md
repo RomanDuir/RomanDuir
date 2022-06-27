@@ -39,5 +39,5 @@
 
 <h2>📈 Stats</h2>
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikemaru&hide=prs)
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikemaru&hide=prs&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikemaru&layout=compact)](https://github.com/kikemaru/)
