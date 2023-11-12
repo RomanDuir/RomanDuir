@@ -3,7 +3,7 @@
 
 🥳 Hello there! My name is Roman and I am a backend developer. 
 
-👾 I specialize in full-cycle software development, particularly creating products for internal clients and automating the internal business processes of a leading telecommunications company in Russia. 
+👾 I am involved in software development for the largest bank in Russia. I am developing internal products to optimize the company's workflow and the core of the banking application. 
 
 🎓 My GitHub is solely for educational projects and to help me learn new technologies.
 
